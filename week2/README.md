@@ -27,6 +27,7 @@
 # Deployment Links
 - [Firebase](https://console.filebase.com/)
 - [IPFS Link](https://ipfs.filebase.io/ipfs/bafkreiechggbc2ii35eldnc3gkhfrog54bbzqlrhif3dukuq73ll722buy)
+- [Replet Live Deployment](https://buymeacoffee-solidity-defi-tipping-app.aaronsiim.repl.co/)
 
 # Alchemy Tutorial Link
 [Link](https://youtu.be/cxxKdJk55Lk)
