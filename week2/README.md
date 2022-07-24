@@ -33,4 +33,4 @@
 [Link](https://youtu.be/cxxKdJk55Lk)
 
 # Completion NFT from MINTKUDOS
-- [PoK - Alchemy Road to Web3 - Week Two]()
+- [PoK - Alchemy Road to Web3 - Week Two](https://opensea.io/AaronSim)

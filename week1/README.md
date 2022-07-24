@@ -20,4 +20,4 @@
 - [IPFS Link](https://ipfs.filebase.io/ipfs/bafkreiechggbc2ii35eldnc3gkhfrog54bbzqlrhif3dukuq73ll722buy)
 
 # Completion NFT from MINTKUDOS
-- [PoK - Alchemy Road to Web3 - Week One](https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/583)
+- [PoK - Alchemy Road to Web3 - Week One](https://opensea.io/AaronSim)
