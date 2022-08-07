@@ -1,23 +1,31 @@
-# Next.js + Tailwind CSS Example
+# Week 4
+Create an NFT Gallery App: 
+- (Find all the NFTs minted on a given chain, and then  follow all the transfer functions to understand who's currently owning the NFTs.)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# Web3 Developement Stack/Environment Used
+- Solidity 
+- Polygon L2 
+- Alchemy Node 
+- Metamask
 
-## Deploy your own
+# Architecture
+## Front-end 
+- NextJS
+- Tailwind CSS
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Blockend
+- Alchemy API
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+# Things I did
+- Wallet address
+- Collection address
+- Wallet address + collection address 
 
-## How to use
+# Deployment Links
+- [Replet Live Deployment]()
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+# Alchemy Tutorial Link
+[Link](https://youtu.be/JzsTfOFjC1o)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+# Completion NFT from MINTKUDOS
+- [PoK - Alchemy Road to Web3 - Week Four](https://opensea.io/AaronSim)
